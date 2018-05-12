@@ -1,0 +1,30 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+#header{
+    color: khaki;
+    font-size: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.price{
+    color:blue;
+}
+
+#brush{
+    color:white;
+    background-color:mediumspringgreen;
+}
+
+#frame{
+    color:white;
+    background-color:lightcoral;
+}
+
+#paint{
+    color:white;
+    background-color:skyblue;
+}
